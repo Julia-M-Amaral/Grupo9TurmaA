@@ -36,7 +36,7 @@ public class Menu {
                 break;
 
             case 4:
-                System.out.println("Encerrando o menu...");
+                System.out.println("Encerrando o menu... até mais!");
                 rodar = false;
                 break;
 
